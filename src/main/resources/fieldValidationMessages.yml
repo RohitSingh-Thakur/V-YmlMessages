@@ -1,0 +1,3 @@
+app:
+  messages:
+    nameEmpty: name field should not be empty
